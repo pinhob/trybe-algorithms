@@ -402,7 +402,7 @@ second_string = "empada"
 
 **Dica:** use um algoritmo de, no máximo, complexidade `O(n log n)`
 
-- Utilize qualquer algoritmo que quiser (_Selection sort_, _Insertion sort_, _Bubble sort_, _Merge sort_, _Quick sort_ ou _TimSort_), desde que atinja a complexidade `O(n log n)`. Ou seja, preste bastante atenção na escolha do algoritmo e na implementação do mesmo;
+- Utilize qualquer algoritmo que quiser (_Selection sort_, _Insertion sort_, _Bubble sort_, _Merge sort_, _Quick sort_ ou _TimSort_), desde que sua complexidade seja, no máximo, `O(n log n)`. Ou seja, preste bastante atenção na escolha do algoritmo e na implementação do mesmo;
 
 - ⚠ *Você deverá implementar sua própria função de ordenação*, ou seja, o uso de funções prontas não é permitido. **Exemplos de funções não permitidas:** _*sort*, *sorted* e *Counter*._
 
@@ -500,7 +500,7 @@ Resolva o mesmo problema, apresentado no [requisito dois](####-2---Palíndromos-
 
 - 5.1 - Retorne `True` se a palavra passada como parâmetro for um palíndromo, executando uma função iterativa
 
-- 5.2 - Retorne `True` se a palavra passada como parâmetro for um palíndromo, executando uma função iterativa
+- 5.2 - Retorne `False` se a palavra passada como parâmetro não for um palíndromo, executando uma função iterativa
 
 - 5.3 - Retorne `False` se nenhuma palavra for passada como parâmetro, executando uma função iterativa
 
